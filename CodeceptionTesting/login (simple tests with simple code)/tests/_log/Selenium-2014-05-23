@@ -1,0 +1,5 @@
+[2014-05-23 08:17:47] FirstTestCept.php.INFO: am on page "/admin" [] []
+[2014-05-23 08:17:49] FirstTestCept.php.INFO: fill field "username","admin" [] []
+[2014-05-23 08:17:50] FirstTestCept.php.ALERT: Field by name, label, CSS or XPath 'username' was not found on page. [] []
+[2014-05-23 08:17:50] FirstTestCept.php.INFO: # FAILED # [] []
+[2014-05-23 08:17:51] FirstTestCept.php.INFO: PASSED [] []

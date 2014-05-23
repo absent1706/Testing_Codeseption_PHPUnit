@@ -1,0 +1,6 @@
+[2014-04-02 08:54:42] MyTestCept.php.INFO: am on page "/admin" [] []
+[2014-04-02 08:54:46] MyTestCept.php.INFO: fill field "username","admin" [] []
+[2014-04-02 08:54:46] MyTestCept.php.INFO: fill field "login","admin123" [] []
+[2014-04-02 08:54:46] MyTestCept.php.INFO: click "Login" [] []
+[2014-04-02 08:54:57] MyTestCept.php.INFO: see "Dashboard" [] []
+[2014-04-02 08:55:05] MyTestCept.php.INFO: PASSED [] []
